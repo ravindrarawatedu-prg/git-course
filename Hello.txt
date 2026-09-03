@@ -1,2 +1,1 @@
-Hello from MASTER CONFLICT 
-Hello from FEATURE CONFLICT 
+Hello from MASTER ABORT 
